@@ -33,7 +33,7 @@
         align-items: center;
     }
     .header{
-        background-color:crimson ;
+        background-color:lightblue;
         grid-area: header;
     }
     .main{
@@ -41,11 +41,11 @@
         grid-area: main;
     }
     .sidemenu{
-        background-color: red;
+        background-color: pink;
         grid-area: sidemenu;
     }
     .footer{
-        background-color: green;
+        background-color: gold;
         grid-area: footer;
     }
 }
